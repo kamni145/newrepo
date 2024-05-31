@@ -2,4 +2,4 @@
 project
 
 # name
-kamni
+kamni soni
