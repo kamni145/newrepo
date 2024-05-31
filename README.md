@@ -1,1 +1,5 @@
 # newrepo
+project
+
+# name
+kamni
